@@ -1,9 +1,6 @@
 # Plant Watering Robot
 
-Automatic house plant watering system using a PIC24 microcontroller.
-
-## Overview
-Built a soil moisture monitoring and automated watering device. The system continuously measures soil moisture using a resistive sensor and ADC, displays readings and status on an LCD screen, and activates a solenoid valve (via relay) when the soil is too dry.
+Automatic house plant watering system using a PIC24 microcontroller. The system continuously measures soil moisture using a resistive sensor stuck in the dirt, displays status on an LCD screen, and activates a solenoid valve (via relay) when the soil has been too dry beyond the user's threshold of time.
 
 ### Key Features
 - Real-time moisture percentage calculation with averaging filter
