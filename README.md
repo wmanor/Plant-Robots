@@ -34,4 +34,4 @@ Built a soil moisture monitoring and automated watering device. The system conti
 Built as a part of the course EE-2361 in Spring 2019, during my Computer Engineering degree. 
 
 
-Special credit to Ames, who shopped for and assembled the hardware so I could spend the whole time coding. 
+Special credit to Amethyst and Scott, who shopped for and assembled the hardware so I could spend the whole time coding. 
